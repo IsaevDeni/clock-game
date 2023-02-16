@@ -1,0 +1,44 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background: black; 
+}
+.container{
+    font-family: "Arial", Helvetica, sans-serif;
+    padding: 30px;
+    color: #fff;
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+    font-size: 150px;
+    white-space: nowrap;
+    border-radius: 80px;
+    width: 1100px;
+    height: 180px;
+    background-color: red;
+    border: solid purple;
+}
+.wrapper{
+  text-align: center;
+  margin-top: 100px;
+}
+#hours{
+  color: white;
+}
+#minutes{
+  color: purple;
+}
+#seconds{
+  color: burlywood;
+}
+#session{
+  color: grey;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+}
+
